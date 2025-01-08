@@ -16,6 +16,9 @@ function Footer() {
                                 <p className="text-sm text-gray-600">
                                     &copy; Copyright 2025. All Rights Reserved.
                                 </p>
+                                <p  className="text-sm text-gray-600">
+                                    Made with ❤️ by Ojas Mittal.
+                                </p>
                             </div>
                         </div>
                     </div>
